@@ -1,26 +1,26 @@
-# ToolExplorerWPF
-Le projet présente certains de mes projets personnels.
+ï»¿# LibraryShowcaseWpf
+Le projet prÃ©sente certains de mes projets personnels.
 
-## Présentation
+## PrÃ©sentation
 
-ToolExplorerWPF est un ensemble de bibliothèques que j'ai développées pendant mon temps libre. Je fais cela en tant que loisir pour améliorer mes compétences.
+LibraryShowcaseWpf est un ensemble de bibliothÃ¨ques que j'ai dÃ©veloppÃ©es pendant mon temps libre. Je fais cela en tant que loisir pour amÃ©liorer mes compÃ©tences.
 
-## Prérequis système
+## PrÃ©requis systÃ¨me
 
 .NET 8
 
-## Bibliothèques et outils intégrés
+## BibliothÃ¨ques et outils intÃ©grÃ©s
 
-Les bibliothèques sont incluses en tant que sous-modules Git.  
-Pour les récupérer après avoir cloné le dépôt principal, exécutez les commandes suivantes dans votre terminal :
+Les bibliothÃ¨ques sont incluses en tant que sous-modules Git.  
+Pour les rÃ©cupÃ©rer aprÃ¨s avoir clonÃ© le dÃ©pÃ´t principal, exÃ©cutez les commandes suivantes dans votre terminalÂ :
 ```git submodule update --init --recursive```
 
-Si vous clonez le projet pour la première fois, vous pouvez utiliser :
-```git clone --recurse-submodules https://github.com/IchiSamaFR/ToolExplorerWPF.git```
+Si vous clonez le projet pour la premiÃ¨re fois, vous pouvez utiliserÂ :
+```git clone --recurse-submodules https://github.com/IchiSamaFR/LibraryShowcaseWpf.git```
 
-Cela téléchargera automatiquement tous les sous-modules nécessaires.
+Cela tÃ©lÃ©chargera automatiquement tous les sous-modules nÃ©cessaires.
 
-### Liste des sous-modules inclus :
+### Liste des sous-modules inclusÂ :
 * [PathFinderLibrary](https://github.com/IchiSamaFR/PathFinderLibrary)
 * [GameOfLifeLibrary](https://github.com/IchiSamaFR/GameOfLifeLibrary)
 * [HtmlScraperLibrary](https://github.com/IchiSamaFR/HtmlScraperLibrary)
