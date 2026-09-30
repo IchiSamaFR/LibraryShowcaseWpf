@@ -1,15 +1,15 @@
-[submodule "References/HtmlScraperLibrary"]
-	path = References/HtmlScraperLibrary
+﻿[submodule "References/HtmlScraperLibrary"]
+	path = src/References/HtmlScraperLibrary
 	url = https://github.com/IchiSamaFR/HtmlScraperLibrary.git
 [submodule "References/PasswordLibrary"]
-	path = References/PasswordLibrary
+	path = src/References/PasswordLibrary
 	url = https://github.com/IchiSamaFR/PasswordLibrary.git
 [submodule "References/PsychonautJournalLibrary"]
-	path = References/PsychonautJournalLibrary
+	path = src/References/PsychonautJournalLibrary
 	url = https://github.com/IchiSamaFR/PsychonautJournalLibrary.git
 [submodule "References/GameOfLifeLibrary"]
-	path = References/GameOfLifeLibrary
+	path = src/References/GameOfLifeLibrary
 	url = https://github.com/IchiSamaFR/GameOfLifeLibrary.git
 [submodule "References/PathFinderLibrary"]
-	path = References/PathFinderLibrary
+	path = src/References/PathFinderLibrary
 	url = https://github.com/IchiSamaFR/PathFinderLibrary.git
